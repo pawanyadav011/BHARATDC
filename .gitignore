@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production and build outputs
+dist/
+build/
+out/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Testing & browser persistence artifacts
+.chrome-persist-test/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Backup Archives
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z

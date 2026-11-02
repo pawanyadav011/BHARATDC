@@ -1,0 +1,7 @@
+{
+  "name": "BHARATDC — Data Center Management Platform",
+  "description": "Enterprise data center management platform for facilities, server racks, servers, clients, allocations, maintenance, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
